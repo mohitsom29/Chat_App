@@ -6,5 +6,7 @@ In this application you can interact with people and text them like any real tim
 
 If you want to try the application please visit on below URL:
 
+URL : lets-talk-man.herokuapp.com/
+
 
 
